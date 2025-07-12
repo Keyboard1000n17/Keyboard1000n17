@@ -1,6 +1,7 @@
-# <img src="./assets/Moraine_Lake_PFP.png" alt="Moraine Lake" height="24" />&nbsp;Keyboard1000n17
+# Keyboard1000n17
+Just a teen aspiring to be a web developer.  
 
-Just a teen aspiring to be a web developer.
+<img src="./assets/Moraine_Lake_PFP.png" alt="Moraine Lake" height="200" />
 
 ## Skills:
 
