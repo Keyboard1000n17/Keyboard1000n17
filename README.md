@@ -1,16 +1,22 @@
-## Hi there 👋
+# Keyboard1000n17
+Just a teen aspiring to be a web developer.
 
-<!--
-**Keyboard1000n17/Keyboard1000n17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
+- HTML5
+- CSS3
+- A tiny bit of JavaScript
+- Some Tauri
+- Some Linux
+- Academic performance
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Used Operating Systems:
+(In chronological order)
+- Windows 10
+- Windows 7
+- Windows XP
+- Windows 11
+- Ubuntu 25.04
+- Pop!_OS 22.04 LTS (daily driver)
+- Fedora Workstation 42 (on an HP Notebook PC 2000)
+- Bonus: macOS Monterey and Ventura on my friend's MacBook (2 hours)
+Yes, this is actually the order in which I used different operating systems.
