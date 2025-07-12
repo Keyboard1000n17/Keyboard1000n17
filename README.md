@@ -5,9 +5,9 @@ Just a teen aspiring to be a web developer.
 - <img src="./assets/HTML5_logo.png" alt="HTML5 logo" height="24" />&nbsp;HTML5
 - <img src="./assets/CSS3_logo.png" alt="CSS3 logo" height="24" />&nbsp;CSS3
 - <img src="./assets/JS_logo.png" alt="JS logo" height="24" />&nbsp;Basic JavaScript
-- Some Tauri
+- <img src="./assets/Tauri_logo.png" alt="Tauri logo" height="24" />&nbsp;Some Tauri
 - <img src="./assets/Tux_logo.webp" alt="Tux logo" height="24" />&nbsp;Some Linux
-- <img src="./assets/pencil.jpg" alt="A pencil" height="24" />&nbsp;Academic performance
+- <img src="./assets/pencil.png" alt="A pencil" height="24" />&nbsp;Academic performance
 
 ## Stats:
 ![Keyboard1000n17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keyboard1000n17&show_icons=true&theme=transparent)  
