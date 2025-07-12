@@ -18,5 +18,5 @@ Just a teen aspiring to be a web developer.
 - Ubuntu 25.04
 - Pop!_OS 22.04 LTS (daily driver)
 - Fedora Workstation 42 (on an HP Notebook PC 2000)
-- Bonus: macOS Monterey and Ventura on my friend's MacBook (2 hours)
+- Bonus: macOS Monterey and Ventura on my friend's MacBook (2 hours)  
 Yes, this is actually the order in which I used different operating systems.
