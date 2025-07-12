@@ -10,13 +10,8 @@ Just a teen aspiring to be a web developer.
 - Academic performance
 
 ## Used Operating Systems:
-(In chronological order)
-- Windows 10
-- Windows 7
-- Windows XP
-- Windows 11
-- Ubuntu 25.04
-- Pop!_OS 22.04 LTS (daily driver)
-- Fedora Workstation 42 (on an HP Notebook PC 2000)
-- Bonus: macOS Monterey and Ventura on my friend's MacBook (2 hours)  
+| <img src="./assets/Windows_10_logo.png" alt="Windows 10 logo" style="height: 96px" /> | <img src="./assets/macOS_Monterey.png" alt="macOS Monterey logo" style="height: 48px" /> <img src="./assets/macOS_Ventura.png" alt="macOS Ventura logo" style="height: 48px" />  | <img src="./assets/Windows_7_logo.png" alt="Windows 7 logo" style="height: 96px" /> | <img src="./assets/Windows_XP_logo.png" alt="Windows XP logo" style="height: 96px" /> | <img src="./assets/Windows_11_logo.png" alt="Windows 11 logo" style="height: 96px" /> | <img src="./assets/Ubuntu_logo.png" alt="Ubuntu logo" style="height: 96px" /> | <img src="./assets/Pop!_OS_logo.png" alt="Pop!_OS logo" style="height: 96px" /> | <img src="./assets/Fedora_logo.png" alt="Fedora logo" style="height: 96px" /> |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Windows 10 | macOS (tiny bit) | Windows 7 | Windows XP | Windows 11 | Ubuntu | Pop!_OS | Fedora |
+
 Yes, this is actually the order in which I used different operating systems.
