@@ -4,19 +4,14 @@ Just a teen aspiring to be a web developer.
 <img src="./assets/Moraine_Lake_PFP.png" alt="Moraine Lake" height="200" />
 
 ## Skills:
-| | |
- | :---: | :---: | 
- | <img src="./assets/HTML5_logo.png" alt="HTML5 logo" height="48" /> | HTML5 | 
- | <img src="./assets/CSS3_logo.png" alt="CSS3 logo" height="48" /> | CSS3 | 
- | <img src="./assets/JS_logo.png" alt="JS logo" height="48" /> | Basic JavaScript | 
- | <img src="./assets/Tauri_logo.png" alt="Tauri logo" height="48" /> | Some Tauri | 
- | <img src="./assets/Tux_logo.webp" alt="Tux logo" height="48" /> | Some Linux | 
- | <img src="./assets/pencil.png" alt="A pencil" height="48" /> | Academic performance | 
+ | <img src="./assets/HTML5_logo.png" alt="HTML5 logo" height="48" /> | <img src="./assets/CSS3_logo.png" alt="CSS3 logo" height="48" /> | <img src="./assets/JS_logo.png" alt="JS logo" height="48" /> | <img src="./assets/Tauri_logo.png" alt="Tauri logo" height="48" /> | <img src="./assets/Tux_logo.webp" alt="Tux logo" height="48" /> | <img src="./assets/pencil.png" alt="A pencil" height="48" /> |
+ | :---: | :---: | :---: | :---: | :---: | :---: |
+ | HTML5| CSS3 | Basic JavaScript | Some Tauri | Some Linux | Academic performance | 
 
 ## Stats:
 
-:[Keyboard1000n17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keyboard1000n17&show_icons=true&theme=transparent)  
-:[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyboard1000n17&layout=compact&theme=transparent)
+![Keyboard1000n17's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keyboard1000n17&show_icons=true&theme=transparent)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keyboard1000n17&layout=compact&theme=transparent)
 
 ## Operating Systems used:
 
