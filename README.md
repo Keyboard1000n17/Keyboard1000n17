@@ -10,7 +10,7 @@ Just a teen aspiring to be a web developer.
 
 ## Stats:
 
-[https://github-readme-stats.vercel.app/api?username=Keyboard1000n17&show_icons=true&theme=transparent](https://gh-readme-profile.vercel.app/api?username=Keyboard1000n17&theme=catppuccin-mocha&border_radius=15)
+![https://github-readme-stats.vercel.app/api?username=Keyboard1000n17&show_icons=true&theme=transparent](https://gh-readme-profile.vercel.app/api?username=Keyboard1000n17&theme=catppuccin-mocha&border_radius=15)
 
 ## Operating Systems used:
 
