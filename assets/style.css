@@ -1,6 +1,6 @@
 body {
   --bg-color: rgba(24, 24, 37, 0.25);
-  --doc-bg: rgba(30, 30, 46, 0.75);
+  --doc-bg: rgba(30, 30, 46, 0.9);
   --color: #cdd6f4;
   color: var(--color);
   font-family: Poppins;
