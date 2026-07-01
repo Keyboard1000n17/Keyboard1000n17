@@ -1,0 +1,129 @@
+body {
+  --bg-color: rgba(24, 24, 37, 0.25);
+  --doc-bg: rgba(30, 30, 46, 0.75);
+  --color: #cdd6f4;
+  color: var(--color);
+  font-family: Poppins;
+  background-color: #1e1e2e;
+  background-image: url("./images/mocha-moraine.webp");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+main {
+  background-color: var(--doc-bg);
+  backdrop-filter: blur(10px);
+  margin: 0;
+  padding: 15px;
+}
+
+div.banner {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.banner h1 {
+  font-size: clamp(2.5rem, 5rem, 10rem);
+  font-weight: 400;
+}
+
+div.banner div.icon-wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+div.banner div.mask {
+  width: 6rem;
+  height: 6rem;
+  mask-position: center;
+  mask-size: 80%;
+  mask-repeat: no-repeat;
+  background-color: var(--color);
+}
+
+div.banner div.mask.discord {
+  mask-image: url("./images/discord.png");
+}
+
+div.banner div.mask.mail {
+  mask-image: url("./images/mail.webp");
+}
+
+div.banner div.mask.github {
+  mask-image: url("./images/github.png");
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 1.5rem;
+}
+
+h5 {
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+
+h6 {
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+div.project-card {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 2fr 1fr;
+  padding: 15px;
+  margin: 15px;
+  background-color: var(--bg-color);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+}
+
+div.project-info {
+  grid-row: 1;
+  grid-column: 1;
+}
+
+div.project-about {
+  grid-row: 2;
+  grid-column: 1;
+}
+
+div.project-card img {
+  grid-row: 1 / span 2;
+  grid-column: 2;
+  width: 90%;
+  align-self: center;
+}
+
+a {
+  text-decoration: none;
+  color: #74c7ec;
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    --bg-color: rgba(230, 233, 239, 0.25);
+    --doc-bg: rgba(239, 241, 245, 0.75);
+    --color: #4c4f69;
+    background-image: url("./images/frappe-moraine.webp");
+  }
+}
