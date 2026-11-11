@@ -3,7 +3,7 @@ body {
   --doc-bg: rgba(30, 30, 46, 0.9);
   --color: #cdd6f4;
   color: var(--color);
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   background-color: #1e1e2e;
   background-image: url("./images/mocha-moraine.webp");
   background-attachment: fixed;
@@ -14,19 +14,43 @@ body {
 }
 
 main {
-  background-color: var(--doc-bg);
-  backdrop-filter: blur(10px);
   margin: 0;
   padding: 15px;
+  max-width: 780px;
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+main>* {
+  position: relative;
+  z-index: 3;
+}
+
+body::before {
+  background-color: var(--doc-bg);
+  backdrop-filter: blur(10px);
+  width: 100vw;
+  height: 100vh;
+  content: "";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 50%;
+  z-index: 0;
+  transform: translateX(-50%);
 }
 
 div.banner {
-  width: 100vw;
   height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  z-index: 3;
+  position: relative;
 }
 
 div.banner h1 {
@@ -91,7 +115,7 @@ div.project-card {
   grid-template-columns: 2fr 1fr;
   grid-template-rows: 2fr 1fr;
   padding: 15px;
-  margin: 15px;
+  margin: 15px 0;
   background-color: var(--bg-color);
   backdrop-filter: blur(10px);
   border-radius: 15px;
